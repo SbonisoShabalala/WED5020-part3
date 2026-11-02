@@ -1,0 +1,145 @@
+PROPOSAL 1: Samukele Trading and Projects (Pty) Ltd 
+
+Category: Small Business - Transport & Logistics 
+
+1. Project Overview: Samukele Trading and Projects currently has no website. The proposed website will create a professional, trustworthy online presence to showcase their abnormal load escort services, safety compliance, and allow clients to request quotes online. 
+
+2. Goals and Objectives 
+
+Build credibility and trust with corporate clients 
+
+Showcase services: route planning, traffic management, escort vehicles 
+
+Make it easy for clients to request a quote and contact the team 
+
+Display certifications, safety compliance and service areas 
+
+Improve visibility on Google for "abnormal load escort SA" 
+
+3. Target Audience Transport companies, construction firms, mining companies, and logistics managers searching for accredited escort services in South Africa. 
+
+4. Proposed Sitemap / Pages 
+
+Home - Hero banner, who we are, why choose us, call-to-action "Request a Quote" 
+
+About Us - Company story, mission, safety focus 
+
+Services - Abnormal load escort, Route planning, Traffic management 
+
+Compliance & Safety - Certifications, regulations, safety procedures 
+
+Service Areas - Map of SA coverage 
+
+Gallery - Fleet and escort operations 
+
+Request a Quote - Form with load details, date, route 
+
+Contact Us - Form, phone, WhatsApp, location 
+
+5. Features and Functionality 
+
+Responsive design (mobile, tablet, desktop) 
+
+Quote request form with email integration 
+
+WhatsApp chat button for instant inquiries 
+
+SEO optimized pages 
+
+Google Maps integration 
+
+Testimonials section 
+
+Downloadable company profile PDF 
+
+6. Design Concept  
+
+Professional, bold and safety focused. Colors: Yellow (safety), Black, Grey and White. Strong fonts, clear icons for services, images of trucks, and escort vehicles. Layout will be clean and corporate. 
+
+7. Technology Stack 
+
+Front-end: HTML5, CSS3, JavaScript 
+
+Framework: WordPress OR custom HTML/CSS/JS (depending on client) 
+
+Forms: PHP / Form handling 
+
+Hosting: Affordable hosting with SSL certificate 
+
+8. Benefits to the Organisation The website will help Samukele attract more corporate clients, look more professional than competitors without websites, and convert online searches into quote requests. 
+
+PROPOSAL 2: Men Mental Health SA 
+
+Category: Non-Profit Organisation 
+
+1. Project Overview Men Mental Health SA has no website. The proposed website will be a safe, supportive, and accessible online platform where men can find information, get help anonymously, and join support programmes. 
+
+2. Goals and Objectives 
+
+Break the stigma around men seeking help 
+
+Provide easy access to mental health resources 
+
+Allow users to book counseling, join support groups, and register for workshops 
+
+Create a safe community through forums and stories 
+
+Enable donations and volunteer sign-ups 
+
+3. Target Audience Men of all ages (especially 18-40), students, working professionals, plus families, schools, and workplaces that support men's mental health. 
+
+4. Proposed Sitemap / Pages 
+
+Home - Calming hero message "It's Okay To Talk", helpline number, quick help buttons 
+
+About Us - Mission, vision, team 
+
+Understanding Mental Health - Articles on stress, depression, anxiety 
+
+Get Help - Counseling referrals, emergency contacts, self-assessment quiz 
+
+Support Groups & Events - Calendar, registration forms 
+
+Resources - Videos, podcasts, downloadable guides 
+
+Stories - Anonymous testimonials from men 
+
+Donate / Volunteer - Payment gateway, volunteer form 
+
+Contact Us - Confidential contact form, 24/7 helpline 
+
+5. Features and Functionality 
+
+Calm, private and user-friendly design 
+
+Anonymous "Ask for Help" form 
+
+Event booking system 
+
+Resource library (filter by topic) 
+
+Blog for awareness articles 
+
+Donation integration (Paystack / PayPal) 
+
+Emergency pop-up with helpline numbers (SADAG) 
+
+High privacy and data protection 
+
+6. Design Concept Empathetic, calm and modern. Colors: Deep Blue (trust), Teal, White, and soft Grey. Lots of white space, friendly imagery of diverse South African men, easy-to-read fonts. Tone: supportive, non-judgmental. 
+
+7. Technology Stack 
+
+Front-end: HTML5, CSS3, JavaScript 
+
+CMS: WordPress (for easy content updates by NPO staff) 
+
+Plugins: Event calendar, donation plugin, secure forms 
+
+Hosting: Secure hosting with SSL and daily backups 
+
+8. Benefits to the Organisation The website will give Men Mental Health SA a central hub to reach men nationally, make help-seeking less intimidating, increase workshop attendance, and attract donors and partners. 
+
+ 
+
+Conclusion Both organisations will greatly benefit from a professional website. For Samukele Trading, the focus is on trust and lead generation. For Men Mental Health SA, the focus is on accessibility, support and community. 
